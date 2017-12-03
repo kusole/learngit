@@ -6,4 +6,8 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Using --no-ff merge.
 issue-101.
+<<<<<<< HEAD
 devper1 add a line.
+=======
+devper2 add a line.
+>>>>>>> 1412049480305e0f9b1d6766fbda7a122edbba77
